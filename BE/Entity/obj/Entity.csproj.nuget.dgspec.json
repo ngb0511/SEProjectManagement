@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\Entity\\Entity.csproj": {}
+    "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\Entity\\Entity.csproj": {
+    "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\Entity\\obj\\",
+        "outputPath": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Sfbu126vHlzA+LRfV+Wd/PZybDDsuHfZ9K2p6y1LaH5ssp8yS02umFuZia26nDRvufdEMcM8bmRfAB3EQY0Hg==",
+  "dgSpecHash": "+6GO1aYLb7uFLwbjAPuSBDezwg4Myv2Aw9wEcts/E3Mc5Y4ol9s/+uHzdAqzgomYJ3G9HqB987tDS0Wb+BTa+Q==",
   "success": true,
-  "projectFilePath": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\EmailService\\EmailService.csproj",
+  "projectFilePath": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\EmailService\\EmailService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

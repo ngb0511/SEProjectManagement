@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNZoR/mbZ/20rPD7LgRfmjj2RypgpFThghlaEuQfCvMcXf02OjL+xAhxPo4ae7VwBI5IIEh1ybEs7GZAz7VZOQ==",
+  "dgSpecHash": "6CjM/HFA6YPLutT6DAb26VQAO8oi5Hc/hKxUW1Av9DmRssbY7K7FgOTvQzFaeAChPSun6qgi/3P7mTHpEquNTw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\SEProjectManagement\\SEProjectManagement.csproj",
+  "projectFilePath": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\SEProjectManagement\\SEProjectManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",

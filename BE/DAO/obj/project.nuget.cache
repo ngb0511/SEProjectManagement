@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ycwdk/MIP5WBXD9KnHRzVQFp8n8/kGB5RqdxHQECobmujkzpSqcH3BVaimcHjD0pP2p7KwE5UYURK7RNjqW+ww==",
+  "dgSpecHash": "I7G+KNyPZzNFM9JaG9Yk9L+pxxtVX9sG3bSEGMNmDN0RV05SmUarhPldMBTkc6SaZ1x6xxDBWGVySy9pJBcAWA==",
   "success": true,
-  "projectFilePath": "C:\\Code\\SE310\\SEProjectManagement\\BE\\SEProjectManagement\\DAO\\DAO.csproj",
+  "projectFilePath": "C:\\Code\\SE310\\Upload\\SEProjectManagement\\BE\\DAO\\DAO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",
