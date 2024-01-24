@@ -1,0 +1,75 @@
+C:\Code\C#\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Code\C#\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.dll
+C:\Code\C#\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Code\C#\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.dll
+C:\Code\C#\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.pdb
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.dll
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Code\C#\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\ref\DAO.dll
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.deps.json
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.dll
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.pdb
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.dll
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.pdb
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.dll
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\refint\DAO.dll
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.pdb
+D:\University document\Y4\s1\p2\SEProjectManagement\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Code\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Code\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.dll
+C:\Code\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Code\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.dll
+C:\Code\SE310\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.pdb
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.dll
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Code\SE310\SEProjectManagement\DAO\obj\Debug\net6.0\ref\DAO.dll
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.deps.json
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.dll
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.pdb
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.dll
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.pdb
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.dll
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\refint\DAO.dll
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.pdb
+D:\University document\Y4\s1\p2\ver1.5\SEProjectManagement\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.dll
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.dll
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\bin\Debug\net6.0\Entity.pdb
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.dll
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Code\SE310\SEProjectManagement\BE\SEProjectManagement\DAO\obj\Debug\net6.0\ref\DAO.dll
