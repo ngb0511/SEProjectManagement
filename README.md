@@ -10,7 +10,7 @@ Hệ thống dùng để hỗ trợ đăng ký đề tài đồ án, tạo lập
  - ## Quản lý hệ thống đề tài:
      -  Quản lý thông tin sinh viên, giảng viên
      -  Quản lý thông tin đề tài đồ án
-     -  Quản lý thông tin đăng ký đồ án
+     -  Quản lý thông tin đăng ký đề tài
      -  Quản lý đồ án
      -  Điều chỉnh thời gian đăng ký
  - ## Quản lý hệ thống đồ án:
