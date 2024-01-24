@@ -39,10 +39,8 @@ Hệ thống dùng để hỗ trợ đăng ký đề tài đồ án, tạo lập
      -  Database: Microsoft SQL Server Management Studio
  - ## Các bước cài đặt:
       -  Bước 1: Tạo database bằng file SEProjectManagement.sql
-      -  Bước 2: Setup Backend:
-               + Kết nối database
-               + Build và Run để chạy SwaggerUI
-      -  Bước 3: Setup Frontend:
-               + Dùng lệnh 'npm i' để cài đặt các thư viện
-               + Dùng lệnh 'npm start' để chạy Frontend
+      -  Bước 2: Kết nối database (Backend)
+      -  Bước 3: Build và Run để chạy SwaggerUI (Backend)
+      -  Bước 4: Dùng lệnh 'npm i' để cài đặt các thư viện (Frontend)
+      -  Bước 5: Dùng lệnh 'npm start' để chạy UI (Frontend)
 
